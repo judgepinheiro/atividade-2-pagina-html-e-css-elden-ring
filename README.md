@@ -10,14 +10,14 @@ A página apresenta um upgrade para a atividade 1 de um ranking com alguns dos c
 
 ## utilizados no projeto
 
- Estrutura HTML
- CSS externo
- Seletores de tag, classe e id
- Box Model
- Estilização de listas
- Google Fonts
- Links internos e externos
- Imagens
+ Estrutura HTML,
+ CSS externo,
+ Seletores de tag, classe e id,
+ Box Model,
+ Estilização de listas,
+ Google Fonts,
+ Links internos e externos,
+ Imagens,
 
 ## Autor
 
