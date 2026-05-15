@@ -1,0 +1,136 @@
+/* estilo */
+
+body {
+
+    background-color: #111111;
+
+    color: white;
+
+    font-family: Arial, sans-serif;
+
+    text-align: center;
+
+    margin: 0px;
+}
+
+/* tags*/
+
+h1, h2 {
+
+    color: gold;
+
+    font-family: 'Cinzel', serif;
+}
+
+/* titulos*/
+
+h1 {
+
+    font-size: 45px;
+}
+
+h2 {
+
+    font-size: 30px;
+
+    text-decoration: underline;
+}
+
+/* texto*/
+
+p {
+
+    font-size: 20px;
+
+    margin: 15px;
+
+    text-align: justify;
+}
+
+/* ID*/
+
+#topo {
+
+    color: gold;
+}
+
+/* classe*/
+
+.boss-card {
+
+    padding: 20px;
+
+    margin: 30px;
+
+    border-style: solid;
+
+    border-width: 3px;
+
+    border-color: gold;
+}
+
+
+img {
+
+    width: 80%;
+
+    max-width: 800px;
+
+    border-style: solid;
+
+    border-width: 4px;
+
+    border-color: gold;
+
+    margin: 15px;
+}
+
+/* lista*/
+
+.ranking {
+
+    list-style-type: none;
+}
+
+.lista ul {
+
+    list-style-type: square;
+}
+
+
+
+.links a {
+
+    color: white;
+
+    font-size: 20px;
+}
+
+
+.gameplay a {
+
+    color: white;
+
+    font-size: 20px;
+}
+
+
+
+section > h2 {
+
+    margin-top: 40px;
+}
+
+
+footer {
+
+    border-style: solid;
+
+    border-width: 3px 0px 0px 0px;
+
+    border-color: gold;
+
+    padding: 20px;
+
+    margin-top: 30px;
+}
